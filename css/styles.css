@@ -368,8 +368,8 @@ button:not(:disabled),
 textarea {
 /*  resize: vertical; original spec */
   resize: both;
-  width: 40em;
-  height: 15em;
+  width: 80%;
+  height: 5em;
 }
 
 fieldset {
