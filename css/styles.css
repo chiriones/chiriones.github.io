@@ -25,7 +25,8 @@
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
  /* --bs-primary: #bd5d38; original base color for navbar */
-  --bs-primary: #555273;
+ /* --bs-primary: #555273; for first modification */
+  --bs-primary: #5979c9;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
